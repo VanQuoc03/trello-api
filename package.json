@@ -1,0 +1,15 @@
+{
+  "name": "trello-api",
+  "version": "1.0.0",
+  "description": "vanquocdev",
+  "license": "ISC",
+  "author": "vanquocdev",
+  "type": "commonjs",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "hell"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
